@@ -1,2 +1,3 @@
 This is fileC
 Lat's make a change
+Make another change for squash merge
